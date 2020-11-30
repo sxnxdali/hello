@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes. 
 creating a dev branch is quick
 --on-ff
+tst stash
