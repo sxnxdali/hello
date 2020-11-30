@@ -3,5 +3,4 @@ Git is free software distributed under by GBL.
 Git has a mutable index called stage.
 Git tracks changes. 
 creating a dev branch is quick
-add master2
-add dev2
+--on-ff
